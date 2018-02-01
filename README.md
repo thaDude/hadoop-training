@@ -8,7 +8,7 @@ The data used for the exercises is not provided since it's subject to a NDA. It 
 
 ## Interacting with your GCP project
 We will interact with our Google cloud in two ways:
-- with `glcoud command line utility
+- with `glcoud` command line utility
 - via the GCP [console](https://console.cloud.google.com) web interface.
 
 Please install `gcloud` by following the instructions in the GCP documentation.
